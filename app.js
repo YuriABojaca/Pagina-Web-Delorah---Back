@@ -3,7 +3,7 @@ const express = require('express');
 const apiRoutes = require('./routes/api');
 
 const app = express();
-const port = 8080;
+const port = 3000;
 
 
 const cors = require('cors');
